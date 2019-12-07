@@ -10,7 +10,13 @@
   ?>
 
 
+  <!-- Page Content -->
+  <div class="container"><h1></h1>
+  </div>
+
+
   <div class="container"><h1>PIPOY</h1></div>
+
   <!-- /.container -->
   <
 
