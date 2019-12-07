@@ -10,7 +10,8 @@
   ?>
 
   <!-- Page Content -->
-  <div class="container"><h1>PIPOY</h1></div>
+  <div class="container"><h1></h1>
+  </div>
   <!-- /.container -->
 
   <?php include_once("./components/footer.php"); ?>
