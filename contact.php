@@ -10,8 +10,10 @@
   ?>
 
   <!-- Page Content -->
-  <div class="container"></div>
+  <div class="container">
+  	
   <!-- /.container -->
+  <
 
   <?php include_once("./components/footer.php"); ?>
 
