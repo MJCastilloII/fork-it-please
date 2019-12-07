@@ -12,6 +12,7 @@
   <!-- Page Content -->
   <div class="container"></div>
   <!-- /.container -->
+  <h1>KAL SKILLS AKADEMIE</h1>
 
  <?php include_once("./components/footer.php"); ?>
 
